@@ -42,7 +42,7 @@ public class Exercicio004UsandodoPost extends HttpServlet {
 	}
 	
 	//para averiguar que o método GET não funciona, tente colocar os parâmetros na URL
-	//localhost:8080/gerenciador/exercicio004UsandodoPost?nome=felipi&peso=4003
+	//localhost:8080/gerenciador/exercicio004UsandodoPost?nome=felipi&altura=4003
 	//dará erro 405: method not allowed
 
 }

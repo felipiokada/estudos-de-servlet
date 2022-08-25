@@ -38,6 +38,7 @@ public class Exercicio003UsandoPost extends HttpServlet {
 		saida.println("</body>");
 		saida.println("</html>");
 		
+		//http://localhost:8080/gerenciador/exercicio003UsandoPost?nome=felipi&peso=70
 		
 	}
 
